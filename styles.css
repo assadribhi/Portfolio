@@ -1,0 +1,20 @@
+.name {
+  font-family: "Dancing Script", cursive;
+}
+h1 {
+  color: rgb(23, 23, 119);
+  text-align: center;
+}
+
+h2 {
+  color: rgb(133, 13, 13);
+  text-align: center;
+}
+h3 {
+  color: rgb(139, 22, 22);
+  text-align: center;
+}
+
+.section {
+  padding: 50px;
+}
